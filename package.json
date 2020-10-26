@@ -1,0 +1,21 @@
+{
+  "name": "amalgama",
+  "version": "1.0.0",
+  "description": "Just a OOP exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "test": "jest",
+    "build": "tsc"
+  },
+  "author": "German Marquez",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.15",
+    "jest": "^26.6.1",
+    "ts-jest": "^26.4.2"
+  }
+}
